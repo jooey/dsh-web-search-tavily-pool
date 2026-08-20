@@ -81,8 +81,8 @@ pnpm add dsh-web-search-tavily-pool
 
 | 插件 | 说明 |
 |---|---|
-| [`dsh-web-search-strategy`](https://npmjs.com/package/dsh-web-search-strategy) | fallback / 并行编排 tavily + bing，带策略面板 |
-| [`dsh-web-search-bing`](https://npmjs.com/package/dsh-web-search-bing) | 免 Key 的 bing-cn / bing-intl 兜底源 |
+| [`dsh-web-search-strategy`](https://github.com/jooey/dsh-web-search-strategy) | fallback / 并行编排 tavily + bing，带策略面板 |
+| [`dsh-web-search-bing`](https://github.com/jooey/dsh-web-search-bing) | 免 Key 的 bing-cn / bing-intl 兜底源 |
 
 ## License
 
